@@ -1,8 +1,7 @@
 <h1>Hi 👋, I'm Gabriel Freitas</h1>
 
-<h3>🗺️ I'm from Florianópolis, Santa Catarina</h3>
-<h3>💻 I'm currently a Front-end Developer</h3>
-<h3>🏄‍♂️ Besides the passion for technology I also love nature, I surf and enjoy my family!</h3>
+<h3>💻 Front-end Developer.</h3>
+<h3>🧙 I play volleyball and basketball on weekends.</h3>
 
 <br>
 
