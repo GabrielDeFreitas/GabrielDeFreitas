@@ -1,8 +1,12 @@
-<h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Hello, I'm Gabriel!</h1>
+## Hello 👋, I'm Gabriel!
 
-<h3>Web developer with a degree in game design 💻.</h3>
-<h3>🧙 Additionally, I engage in basketball and volleyball on weekends and maintain a fitness routine at the gym.</h3>
-<h3>I have a particular interest in fighting games 👊💥.</h3>
+<p>Web developer with a degree in game design 💻.</p>
+<p> Additionally, I engage in basketball and volleyball on weekends and maintain a fitness routine at the gym.</p>
+
+### You can find me on
+
+🐦 &nbsp; [Twitter](https://twitter.com/refri_comfrango) <br>
+💬 &nbsp; [Linkedin](https://www.linkedin.com/in/gabrielfreitas21/) <br>
 
 <br>
 
