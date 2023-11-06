@@ -4,7 +4,7 @@
 <p> Additionally, I engage in basketball and volleyball on weekends and maintain a fitness routine at the gym.</p>
 
 ### You can find me on
-💻 &nbsp; [CodePen](https://codepen.io/your-work/?filter=not-fork) <br>
+💻 &nbsp; [CodePen](https://codepen.io/your-work/) <br>
 🐦 &nbsp; [Twitter](https://twitter.com/refri_comfrango) <br>
 💬 &nbsp; [Linkedin](https://www.linkedin.com/in/gabrielfreitas21/) <br>
 
