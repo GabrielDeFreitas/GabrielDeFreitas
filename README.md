@@ -1,7 +1,12 @@
 ## Hello 👋, I'm Gabriel!
 
-<p>Web developer with a degree in game design 💻.</p>
-<p> Additionally, I engage in basketball and volleyball on weekends and maintain a fitness routine at the gym.</p>
+👨‍💻 Web developer with a degree in game design, specializing in React, React Native, and NextJS. 
+
+💻 My focus is on creating dynamic and accessible web experiences.
+
+💡 Always in pursuit of learning, my journey includes experiences ranging from software testing to desktop and web development.
+
+🏐 Additionally, I play basketball and volleyball on weekends, maintaining a regular exercise routine at the gym.
 
 ### You can find me on
 💻 &nbsp; [CodePen](https://codepen.io/GabrielDeFreitas/pens/) <br>
