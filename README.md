@@ -1,4 +1,4 @@
-## Hello 👋, I'm Gabriel!
+## Hello 👋, I'm Gabriel Freitas!
 
 👨‍💻 Web developer with a degree in game design, specializing in React, React Native, and NextJS. 
 
