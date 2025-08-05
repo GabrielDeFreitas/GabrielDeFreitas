@@ -1,8 +1,8 @@
 ## Hello 👋, I'm Gabriel Freitas!
 
-👨‍💻 Web developer with a degree in game design. 
+Web developer with a degree in game design. 
 
-💻 My focus is on creating dynamic and accessible web experiences.
+My focus is on creating dynamic and accessible web experiences.
 
 
 ### You can find me on
